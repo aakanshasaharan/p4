@@ -27,7 +27,7 @@
                   <div class="form-group">
                         <label class="col-md-4 control-label" for='menu_type'>Type :</label>
                         <div class="col-md-6">
-                          <select name='menu' id='menu'>
+                          <select name='menu_type' id='menu'>
                             @foreach($menus_for_dropdown as $menu_id => $menu_name)
                               <option value='{{ $menu_id }}'> {{ $menu_name }} </option>
                                 @endforeach
