@@ -13,7 +13,7 @@ class SpecificsTableSeeder extends Seeder
     {
           $data = ['dryFruits','vegetables','milk','cream','spices','flour','fruits','yogurt','oil' ,'paneer'];
             foreach($data as $specificName) {
-                $specific = new \App\specific();
+                $specific = new \App\Specific();
                 $specific->name = $specificName;
                 $specific->save();
             }
