@@ -9,7 +9,7 @@ This website is about indian recipes. You can come and register. Make your on ls
 [P4.planning doc](https://docs.google.com/document/d/1SsduHp1h0i0shQTqklqHHfyauJ6yDDDgMFnuin5tURg/edit?pref=2&pli=1)
 
 ###Demo
-URL:[]()
+URL:[http://www.screencast.com/t/R48QlDok](http://www.screencast.com/t/R48QlDok)
 
 ###Details for teaching team
 In user table seeder following details are created.<br>
